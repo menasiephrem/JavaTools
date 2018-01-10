@@ -1,0 +1,5 @@
+new Module("Mod1", "Mod1TitleGOD", "Mod1Less1" , "0"),
+new Module("Mod2", "Mod2TitleBible", "Mod2Less1" , "0"),
+new Module("Mod3", "Mod3TitleFaith", "Mod3Less1" , "0"),
+new Module("Mod4", "Mod4TitleHope", "Mod4Less" , "0"),
+new Module("mod5", "mod5TitleSalbvatiojn", "mod5Less1" , "0"),
